@@ -1,0 +1,1 @@
+# Script to initialize server vm's
